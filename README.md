@@ -82,7 +82,34 @@ text
 [-] Unauthorized Access
 
 
+
 I believe that every step in learning matters. My focus is on developing real skills, building projects, and using technology responsibly.
+
+
+
+<div align="center">
+
+<details>
+<summary>
+  
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/cat-computer.gif" width="180" alt="Hacker no computador">
+  <br>
+  <strong>🔴 CLIQUE AQUI</strong>
+  
+</summary>
+
+# 💀 VOCÊ FOI HACKEADO!
+
+🔓 Acesso ao sistema realizado...
+
+👀 Calma! É só uma brincadeira!
+
+• CYBERSECURITY
+
+</details>
+
+</div>
+
 
 📫 Connect With Me
 
