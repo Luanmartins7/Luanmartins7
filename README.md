@@ -114,7 +114,7 @@ I believe that every step in learning matters. My focus is on developing real sk
 📫 Connect With Me
 
 <p align="left">
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Luanmartins7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   <a href="https://www.linkedin.com/in/luan2607/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
