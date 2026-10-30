@@ -26,13 +26,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Level-Beginner-8B0000?style=for-the-badge" alt="Beginner" />
 </p>
 
-bash
-┌──(student㉿cybersec)-[~]
-└─$ whoami
+
+
 ADS student | Cybersecurity enthusiast
 
-┌──(student㉿cybersec)-[~]
-└─$ cat mission.txt
+
 Learn programming.
 Understand networks and systems.
 Explore cybersecurity.
@@ -69,18 +67,6 @@ Hello! Welcome to my GitHub profile.
 <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
-Tool	Purpose
-🔎 Nmap	Network discovery and port scanning
-🔐 Hydra	Password security auditing
-🌐 Wireshark	Network traffic analysis
-📚 Currently Learning
-Python and programming fundamentals.
-Linux and command-line operations.
-Network protocols and TCP/IP.
-Network scanning with Nmap.
-Password auditing concepts with Hydra.
-Packet capture and analysis with Wireshark.
-Cybersecurity and ethical hacking fundamentals.
 
 All security testing is performed exclusively in authorized environments and laboratories.
 
